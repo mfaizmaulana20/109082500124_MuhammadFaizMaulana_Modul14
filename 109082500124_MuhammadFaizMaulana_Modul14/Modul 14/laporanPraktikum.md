@@ -219,6 +219,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_2](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Modul9/blob/main/modul%209/output/soal%202.png)
+![Screenshot Output Unguided 1_2](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Modul14/blob/main/109082500124_MuhammadFaizMaulana_Modul14/Modul%2014/output/soal2.png)
 [Program ini merupakan sistem manajemen perpustakaan yang mengelola koleksi buku. Program membaca data buku berupa id, judul, penulis, penerbit, jumlah eksemplar, tahun, dan rating, kemudian melakukan beberapa operasi: mencari dan menampilkan buku dengan rating tertinggi, mengurutkan seluruh buku berdasarkan rating secara descending menggunakan insertion sort, menampilkan 5 buku teratas setelah pengurutan, dan melakukan pencarian binary search untuk menemukan buku dengan rating tertentu yang dimasukkan pengguna.]
 
