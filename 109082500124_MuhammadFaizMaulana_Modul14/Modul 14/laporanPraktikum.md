@@ -78,7 +78,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Modul9/blob/main/modul%209/output/soal%201.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Modul14/blob/main/109082500124_MuhammadFaizMaulana_Modul14/Modul%2014/output/soal1.png)
 [Program ini membaca sekumpulan bilangan bulat positif dari input (hingga nilai negatif), kemudian mengurutkannya menggunakan algoritma insertion sort. Setelah diurutkan, program mencetak data yang sudah terurut, lalu melakukan pengecekan jarak (selisih) antara elemen-elemen yang berurutan untuk menentukan apakah data memiliki jarak yang konsisten atau tidak. Jika semua selisih antara elemen berurutan sama, maka program menampilkan nilai jaraknya; jika tidak konsisten, maka program menampilkan pesan "Data berjarak tidak tetap".]
 
 ### 2. [Soal]
